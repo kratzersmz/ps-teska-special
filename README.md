@@ -8,7 +8,7 @@ Sets via udm e-mail address
 Reads the employee attribute and puts user in group teacher or student. So you can apply the license to that group
 
 ## paedml-linux-get-usernames.ps1
-Prints usernames for teacher + pupils to CSV list in homedir...
+Prints usernames for teacher + pupils to CSV list in homedir...usefull if you want to export teacher and pupils with classes,forename,name,username
 
 ## paedml-linux-write-class-land-city-to-ldap-attribute.ps1
 Writes ldap attributes class land city for users, very usefull for ldap moodle or other ldap clients. For more info how to setup your moodle with these scripts, see folder additional ldap-moodle-paedml-gs7.pdf and ldap-anbindung_moodle_linux_linux_gs_2020_04_01.pdf
